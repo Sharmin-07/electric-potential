@@ -5,7 +5,7 @@ Consider a point charge q. To find the electric potential at a point in space, a
 
 W = $\int_{\infty}^{r} \vec{F} \cdot d\vec{R}$ = $\int_{\infty}^{r} \vec{E} \cdot d\vec{R}$
 
-The electric field due to the (point) charge q would be $\frac{kq}{R^2} \hat{R}$ , R being the magnitude of the position vector joining the unit charges and the source charge, pointing radially outwards. The dot product simply becomes the product of magnitudes of the electric field and displacement vectors, since both have a common direction. Therefore, the electric potential($V_r$) is calculated as- 
+The electric field due to the (point) charge q would be $\frac{kq}{R^2} \hat{R}$ , R being the magnitude of the position vector joining the unit charges and the source charge, pointing radially outwards. The dot product simply becomes the product of magnitudes of the electric field and displacement vectors, since both have a common direction. Therefore, the electric potential ($V_r$) is calculated as- 
 
 $V_r$ = $-\int_{\infty}^{r} \vec{E} \cdot d\vec{R}$ = $-\int_{\infty}^{r} \frac{kq}{R^2} \cdot dR$ = $(V_r +c) - (V_\infty + c)$ = $V_r - V_\infty$
 
@@ -21,6 +21,7 @@ What initially looked like an inconsistency turned out to be a choice. Mathemati
 Short Version-
 
 Electric potential is relative, not absolute; it is defined only relative to a chosen reference point. Potential difference ($\Delta V$) is calculated using using a definite integral, which naturally eliminates any integration constant. As the integration constant is arbitrary, the potential at a point is also arbitrary. This means the zero of potential is arbitrary and can be chosen for convenience. In electrostatics, infinity is taken as the reference for globbal and theoretical purposes, while for practical and local purposes, Earth is chosen to have zero electric potential. The numerical values change, but the physics does not—because only potential differences have physical meaning, not the absolute potential at a point.
+
 
 
 

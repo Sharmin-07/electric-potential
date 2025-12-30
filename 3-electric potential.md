@@ -7,7 +7,7 @@ $V_r$ = $-W_E$ = $-\int_{\infty}^{r} \vec{F} \cdot d\vec{R}$ = $-\int_{\infty}^{
 
 The electric field due to the (point) charge q would be $\frac{kq}{R^2} \hat{R}$ , R being the magnitude of the position vector joining the unit charges and the source charge, pointing radially outwards. The electric field and displacement vectors are oppositely directed. This makes their dot product negative, which is exactly why the negative sign appears in the definition of electric potential. Therefore, the above integral becomes- 
 
-$-\int_{\infty}^{r} \vec{E} \cdot d\vec{R}$  =  $-\int_{\infty}^{r} \frac{kq}{R^2} \cdot dR$  =  $(V_r +c) - (V_\infty + c)$  =  $V_r - V_\infty$  =  $V_r$
+$-\int_{\infty}^{r} \vec{E} \cdot d\vec{R}$ = $-\int_{\infty}^{r} \frac{kq}{R^2} \cdot dR$ = $(V_r +c) - (V_\infty + c)$ = $V_r - V_\infty$  =  $V_r$
 
 This is a definite integral. While evaluating this definite integral, the integration constant c disappears. At first, this makes the constant feel irrelevant—almost like a formality. But what if this “irrelevance” is exactly where something interesting is hiding?
 
@@ -21,6 +21,7 @@ What initially looked like an inconsistency turned out to be a choice. Mathemati
 Short Version-
 
 Electric potential is relative, not absolute; it is defined only relative to a chosen reference point. Potential difference ($\Delta V$) is calculated using a definite integral, which naturally eliminates any integration constant. As the integration constant is arbitrary, the potential at a point is also arbitrary. This means the zero of potential is arbitrary and can be chosen for convenience. In electrostatics, infinity is taken as the reference for global and theoretical purposes, while for practical and local purposes, Earth is chosen to have zero electric potential. The numerical values change, but the physics does not—because only potential differences have physical meaning, not the absolute potential at a point.
+
 
 
 

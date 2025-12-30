@@ -13,12 +13,13 @@ This is a definite integral. While evaluating this definite integral, the integr
 
 In electrostatics, we usually take potential at infinity to be zero, while real-world circuits use Earth as their reference. Initially, this seemed inconsistent. Shouldn’t a physical quantity have a single, well-defined zero point?
 
-The key realization is that electric potential does not have an absolute value. Only differences in potential ($Delta V$) matter physically. The choice of zero is arbitrary, and as long as all measurements share the same reference, the underlying physics remains the same. To see this more concretely, consider Earth as a charged sphere with charge $Q_e$ and radius $R_e$. If we choose Earth as the reference and set its potential to zero, then the potential at infinity becomes  $-$\frac{-k$Q_e$}{R_e}$. The values change, but the work done in bringing a unit charge from infinity to Earth, i.e., the potential difference, remains exactly the same.
+The key realization is that electric potential does not have an absolute value. Only differences in potential ($Delta V$) matter physically. The choice of zero is arbitrary, and as long as all measurements share the same reference, the underlying physics remains the same. To see this more concretely, consider Earth as a charged sphere with charge $Q_e$ and radius $R_e$. If we choose Earth as the reference and set its potential to zero, then the potential at infinity becomes  $-\frac{-k$Q_e$}{R_e}$. The values change, but the work done in bringing a unit charge from infinity to Earth, i.e., the potential difference, remains exactly the same.
 
 What initially looked like an inconsistency turned out to be a choice. Mathematics allows this flexibility, and physics makes use of it. We take the potential at infinity to be zero for global, theoretical purposes, and the potential at Earth to be zero for local, practical purposes. The change isn’t in the set-up or in the concept, it’s in our perspective.
 
 
 Short Version-
+
 
 
 

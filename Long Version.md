@@ -7,7 +7,7 @@ W = $\int_{\infty}^{r} \vec{F} \cdot d\vec{R}$ = $\int_{\infty}^{r} \vec{E} \cdo
 
 The electric field due to the (point) charge q would be $\frac{kq}{R^2} \hat{R}$ , R being the magnitude of the position vector joining the unit charges and the source charge, pointing radially outwards. The dot product simply becomes the product of magnitudes of the electric field and displacement vectors, since both have a common direction. Therefore, the electric potential($V_r$) is calculated as- 
 
-$V_r$ = $\-int_{\infty}^{r} \vec{E} \cdot d\vec{R}$ = $\-int_{\infty}^{r} \frac{kq}{R^2} \cdot dR$ = $(V_r +c) - (V_\infty + c)$ = $V_r - V_\infty$
+$V_r$ = $-\int_{\infty}^{r} \vec{E} \cdot d\vec{R}$ = $-\int_{\infty}^{r} \frac{kq}{R^2} \cdot dR$ = $(V_r +c) - (V_\infty + c)$ = $V_r - V_\infty$
 
 This is a definite integral. While evaluating this definite integral, the integration constant c disappears. At first, this makes the constant feel irrelevant—almost like a formality. But what if this “irrelevance” is exactly where something interesting is hiding?
 
@@ -19,6 +19,7 @@ What initially looked like an inconsistency turned out to be a choice. Mathemati
 
 
 Short Version-
+
 
 
 

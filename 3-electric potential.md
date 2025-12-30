@@ -20,6 +20,7 @@ What initially looked like an inconsistency turned out to be a choice. Mathemati
 
 Short Version-
 
+Electric potential is relative, not absolute; it is defined only relative to a chosen reference point. Potential difference ($\Delta V$) is calculated using using a definite integral, which naturally eliminates any integration constant. As the integration constant is arbitrary, the potential at a point is also arbitrary. This means the zero of potential is arbitrary and can be chosen for convenience. In electrostatics, infinity is taken as the reference for globbal and theoretical purposes, while for practical and local purposes, Earth is chosen to have zero electric potential. The numerical values change, but the physics does not—because only potential differences have physical meaning, not the absolute potential at a point.
 
 
 

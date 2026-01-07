@@ -1,4 +1,4 @@
-Long Version- 
+# Long Version- 
 
 Electric potential at a point can be defined in two equivalent ways: as the negative of the work done by the electrostatic force ($W_E$) in bringing a unit positive charge from infinity to that point, or as the work done by an external agent in moving a unit positive charge from that point to infinity quasi-statically. Let’s proceed with the former definition.
 Consider a point charge q. To find the electric potential at a point in space, at position $\vec{r}$ in space with respect to q, imagine bringing a unit positive charge from infinity to this point. Let the electric potential at this point be $V_r$ and the distance between q and the unit charge be represented by R. In case of a unit positive charge, the force vector $\vec{F}$ is equal to the electric field $\vec{E}$ . Since work is defined as the dot product of force and displacement, and the distance between the source charge and the test charge keeps changing as the charge moves inward, this work has to be calculated using an integral. 
@@ -18,9 +18,10 @@ The key realization is that electric potential does not have an absolute value. 
 What initially looked like an inconsistency turned out to be a choice. Mathematics allows this flexibility, and physics makes use of it. We take the potential at infinity to be zero for global, theoretical purposes, and the potential at Earth to be zero for local, practical purposes. The change isn’t in the set-up or in the concept, it’s in our perspective.
 
 
-Short Version-
+# Short Version-
 
 Electric potential is relative, not absolute; it is defined only relative to a chosen reference point. Potential difference ($\Delta V$) is calculated using a definite integral, which naturally eliminates any integration constant. As the integration constant is arbitrary, the potential at a point is also arbitrary. This means the zero of potential is arbitrary and can be chosen for convenience. In electrostatics, infinity is taken as the reference for global and theoretical purposes, while for practical and local purposes, Earth is chosen to have zero electric potential. The numerical values change, but the physics does not—because only potential differences have physical meaning, not the absolute potential at a point.
+
 
 
 
